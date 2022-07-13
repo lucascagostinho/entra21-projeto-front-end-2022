@@ -12,9 +12,8 @@ O projeto atualmente está na sua versão da aplicação dos conceitos aprendido
 
 #### CSS
 
-#### BOOTSTREP
+#### BOOTSTRAP
 
 ## Execução
 
-> Apresentação do site
 ![site](/img/projeto-front-end.gif "site")
